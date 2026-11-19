@@ -84,6 +84,7 @@
   .svc-card:hover { border-color: #5b3dc7; transform: translateY(-2px); }
 
 </style>
+<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
 <div style="width: 100%; min-height: 100vh; background: #ffffff; color: #0f0d0a; font-family: 'Inter', sans-serif; display: flex; flex-direction: column;">
@@ -244,6 +245,16 @@
 
 </div>
 <script src="script.js"></script>
-
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", user => {
+      if (!user) {
+        window.netlifyIdentity.on("login", () => {
+          document.location.href = "/admin/";
+        });
+      }
+    });
+  }
+</script>
 </body>
 </html>
