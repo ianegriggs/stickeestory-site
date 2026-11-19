@@ -422,6 +422,12 @@ function renderCards(filter) {
     el.className = 'work-card';
     el.dataset.category = card.category;
 
+    const postLink = card.externalUrl
+      ? card.externalUrl
+      : `post.html?post=${encodeURIComponent(card.filename)}`;
+    const linkTarget = card.externalUrl ? ' target="_blank" rel="noopener"' : '';
+    const ctaLabel   = card.externalUrl ? 'Read article' : 'Read more';
+
     if (card.videoEmbed) {
       el.innerHTML = `
         <div class="video-wrapper">
@@ -432,24 +438,21 @@ function renderCards(filter) {
           <div class="card-title">${card.title}</div>
           <div class="card-desc">${card.description || ''}</div>
         </div>`;
-    } else if (card.pdf) {
-      el.innerHTML = `
-        <div class="card-thumb">${categoryIcon(card.category)}</div>
-        <div class="card-body">
-          <div class="card-category">${card.category}</div>
-          <div class="card-title">${card.title}</div>
-          <div class="card-desc">${card.description || ''}</div>
-          <a class="card-cta" href="#" data-pdf="${card.pdf}" data-title="${card.title}">View PDF <span>→</span></a>
-        </div>`;
     } else {
       el.innerHTML = `
-        <div class="card-thumb">${categoryIcon(card.category)}</div>
+        <div class="card-thumb">${card.heroImage ? `<img src="${card.heroImage}" alt="${card.title}" style="width:100%;height:100%;object-fit:cover;">` : categoryIcon(card.category)}</div>
         <div class="card-body">
           <div class="card-category">${card.category}</div>
           <div class="card-title">${card.title}</div>
           <div class="card-desc">${card.description || ''}</div>
-          ${card.url ? `<a class="card-cta" href="${card.url}" target="_blank" rel="noopener">Read article <span>→</span></a>` : ''}
+          <a class="card-cta" href="${postLink}"${linkTarget}>${ctaLabel} <span>→</span></a>
         </div>`;
+      el.style.cursor = 'pointer';
+      el.addEventListener('click', e => {
+        if (!e.target.closest('a')) {
+          window.location.href = postLink;
+        }
+      });
     }
 
     grid.insertBefore(el, empty);
@@ -504,13 +507,15 @@ async function loadPosts() {
       const fm = extractFrontmatter(text);
       if (fm.published === false) return null;
       return {
+        filename: f.name,
         title: fm.title || f.name,
         description: fm.description || '',
         category: fm.category || 'Writing Sample',
         date: fm.date || '',
+        heroImage: fm.hero_image || null,
         pdf: fm.pdf || null,
         videoEmbed: getVideoEmbed(fm.video_url || ''),
-        url: fm.external_url || null,
+        externalUrl: fm.external_url || null,
       };
     }));
 
