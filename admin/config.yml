@@ -15,6 +15,20 @@ collections:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Description", name: "description", widget: "string", hint: "One-line summary shown in the post grid" }
-      - { label: "Category", name: "category", widget: "select", options: ["Case Study", "Strategy", "Opinion", "Writing Sample"], default: "Writing Sample" }
+      - label: "Category"
+        name: "category"
+        widget: "select"
+        options: ["Writing Sample", "Case Study", "Strategy", "Opinion", "Sample Deliverable"]
+        default: "Writing Sample"
       - { label: "Body", name: "body", widget: "markdown" }
+      - label: "PDF File"
+        name: "pdf"
+        widget: "file"
+        required: false
+        hint: "Upload a PDF to show a 'View PDF' button on the card (optional)"
+        media_library:
+          config:
+            multiple: false
+      - { label: "Video URL", name: "video_url", widget: "string", required: false, hint: "Paste a YouTube or Vimeo URL to embed a video card (optional)" }
+      - { label: "External Article URL", name: "external_url", widget: "string", required: false, hint: "Link to an article published elsewhere (optional)" }
       - { label: "Published", name: "published", widget: "boolean", default: true }
