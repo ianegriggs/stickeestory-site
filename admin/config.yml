@@ -14,21 +14,53 @@ collections:
     fields:
       - { label: "Title", name: "title", widget: "string" }
       - { label: "Date", name: "date", widget: "datetime" }
-      - { label: "Description", name: "description", widget: "string", hint: "One-line summary shown in the post grid" }
+      - { label: "Slug (URL)", name: "slug", widget: "string", required: false, hint: "Custom URL for this post, e.g. adobe-creative-cloud-analysis. Lowercase, hyphens only. Auto-generated from title if left blank." }
       - label: "Category"
         name: "category"
         widget: "select"
         options: ["Writing Sample", "Case Study", "Strategy", "Opinion", "Sample Deliverable"]
         default: "Writing Sample"
-      - { label: "Body", name: "body", widget: "markdown" }
+
+      - label: "Hero Image"
+        name: "hero_image"
+        widget: "image"
+        required: false
+        hint: "Main image shown at the top of the post and as the card thumbnail"
+
+      - label: "Content"
+        name: "body"
+        widget: "markdown"
+
       - label: "PDF File"
         name: "pdf"
         widget: "file"
         required: false
-        hint: "Upload a PDF to show a 'View PDF' button on the card (optional)"
-        media_library:
-          config:
-            multiple: false
-      - { label: "Video URL", name: "video_url", widget: "string", required: false, hint: "Paste a YouTube or Vimeo URL to embed a video card (optional)" }
-      - { label: "External Article URL", name: "external_url", widget: "string", required: false, hint: "Link to an article published elsewhere (optional)" }
+        hint: "Upload a PDF — shows a 'View PDF' button on the card"
+
+      - { label: "Video URL", name: "video_url", widget: "string", required: false, hint: "YouTube or Vimeo URL — auto-embeds as a video card" }
+      - { label: "External Article URL", name: "external_url", widget: "string", required: false, hint: "Link to an article published elsewhere" }
+
+      - label: "SEO"
+        name: "seo"
+        widget: "object"
+        collapsed: true
+        hint: "Controls how this post appears in Google search results"
+        fields:
+          - { label: "Meta Title", name: "meta_title", widget: "string", required: false, hint: "Defaults to post title if left blank. Keep under 60 characters." }
+          - { label: "Meta Description", name: "meta_description", widget: "text", required: false, hint: "1–2 sentence summary for Google. Keep under 160 characters." }
+
+      - label: "Social Sharing"
+        name: "social"
+        widget: "object"
+        collapsed: true
+        hint: "Controls how this post looks when shared on LinkedIn, Twitter, etc."
+        fields:
+          - label: "OG Image"
+            name: "og_image"
+            widget: "image"
+            required: false
+            hint: "1200×630px image. Defaults to site OG image if left blank."
+          - { label: "OG Title", name: "og_title", widget: "string", required: false, hint: "Defaults to post title if left blank" }
+          - { label: "OG Description", name: "og_description", widget: "text", required: false, hint: "1–2 sentences shown in the social card preview" }
+
       - { label: "Published", name: "published", widget: "boolean", default: true }
