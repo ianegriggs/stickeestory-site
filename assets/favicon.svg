@@ -1,0 +1,13 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="90 0 100 80" width="100%" height="100%">
+	<rect x="90" y="0" width="100" height="80" rx="16" fill="#1c1917" />
+	<!-- Outer Ring -->
+	<path fill-rule="evenodd" clip-rule="evenodd" d="m140 75.5c-26.54 0-48-15.42-48-34.5 0-19.08 21.46-34.5 48-34.5 26.54 0 48 15.42 48 34.5 0 19.08-21.46 34.5-48 34.5z" style="opacity: 0.6; fill: none; stroke: #44403c; stroke-width: 2.2; stroke-dasharray: 105,18" />
+	<!-- Middle Ring -->
+	<path fill-rule="evenodd" clip-rule="evenodd" d="m140 66.5c-19.91 0-36-11.4-36-25.5 0-14.1 16.09-25.5 36-25.5 19.91 0 36 11.4 36 25.5 0 14.1-16.09 25.5-36 25.5z" style="opacity: 0.85; fill: none; stroke: #7c3aed; stroke-width: 2.8; stroke-dasharray: 80,15" />
+	<!-- Inner Ring -->
+	<path fill-rule="evenodd" clip-rule="evenodd" d="m140 57.5c-13.27 0-24-7.38-24-16.5 0-9.12 10.73-16.5 24-16.5 13.27 0 24 7.38 24 16.5 0 9.12-10.73 16.5-24 16.5z" style="opacity: 0.95; fill: none; stroke: #a8a29e; stroke-width: 3.5; stroke-dasharray: 55,12" />
+	<!-- Core Shape -->
+	<path fill-rule="evenodd" clip-rule="evenodd" d="m140 47c-3.32 0-6-2.68-6-6 0-3.32 2.68-6 6-6 3.32 0 6 2.68 6 6 0 3.32-2.68 6-6 6z" style="fill: #b8791c" />
+	<!-- Inner Spark -->
+	<path fill-rule="evenodd" clip-rule="evenodd" d="m137.75 40.62c-1.04 0-1.88-0.83-1.88-1.87 0-1.04 0.84-1.88 1.88-1.88 1.04 0 1.87 0.84 1.87 1.88 0 1.04-0.83 1.87-1.87 1.87z" style="opacity: 0.9; fill: #fbbf24" />
+</svg>
