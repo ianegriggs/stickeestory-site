@@ -15,7 +15,7 @@ social:
   og_description: '"You told everyone you made salmon. You made the blue box
     instead." See how Stickee Story builds a full-stack content campaign around
     cognitive dissonance and comfort anchoring.'
-  og_image: /assets/uploads/narrative-blueprint.jpg
+  og_image: /assets/uploads/narrative-blueprint-hero.jpg
 published: true
 ---
 An independent demo of the Narrative Blueprint, the core deliverable of Stickee Story’s narrative intelligence service, built around Kraft Mac & Cheese as a worked example. The Blueprint takes a single campaign idea, here “When Caring Less Becomes Your Guilty Little Secret,” and breaks it down into the core story, why it works, the behavioral psychology behind it, and four campaign pillars (article, social, video, and packaging and retail) that show how one narrative carries through every channel. Created on my own as a sample of the service, not for or with the brand.
