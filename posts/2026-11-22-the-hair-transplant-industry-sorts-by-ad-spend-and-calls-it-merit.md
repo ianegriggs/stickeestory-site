@@ -1,9 +1,22 @@
 ---
 title: The Hair Transplant Industry Sorts by Ad Spend and Calls It Merit
 date: 2026-11-22T14:33:00.000+02:00
+slug: hair-transplant-industry-ad-spend-vs-clinical-merit
 category: Writing Sample
 hero_image: /assets/uploads/luxury-hair-transplant-clinic-office.jpg
-published: false
+seo:
+  meta_title: The Hair Transplant Industry Sorts by Ad Spend, Not Merit
+  meta_description: Opaque booking networks rank hair transplant surgeons by ad
+    spend rather than clinical outcomes. Learn how merit-based evaluation helps
+    elite practices win.
+social:
+  og_title: The Hair Transplant Industry Sorts by Ad Spend and Calls It Merit
+  og_description: >
+    Elite surgeons lose complex cases every day to inferior competitors with
+    bigger marketing budgets. Discover how bypassing pay-to-play auctions puts
+    clinical outcomes back in charge.
+  og_image: /assets/uploads/luxury-hair-transplant-clinic-office.jpg
+published: true
 ---
 ## Elite surgeons lose complex cases to inferior competitors every day because opaque booking networks rank by auction bids rather than clinical outcomes.
 
