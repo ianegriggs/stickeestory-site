@@ -4,6 +4,17 @@ date: 2026-11-22T09:46:00.000+02:00
 slug: adobe-brand-story-case-study
 category: Case Study
 hero_image: /assets/uploads/reframing-adobe_og.jpeg
+seo:
+  meta_title: "Adobe Brand Story Case Study: What Its Narrative Leaves Out"
+  meta_description: An independent brand strategy analysis of Adobe's
+    messaging—and how applying the Peak-End Rule reframes the daily workflow
+    struggles creatives face.
+social:
+  og_image: /assets/uploads/reframing-adobe_og.jpeg
+  og_title: Adobe Celebrates Creativity. Its Story Has Lost the Plot.
+  og_description: Adobe champions what creators achieve, while overlooking the
+    late-night admin and broken workflows they endure. Here's how to reframe its
+    brand narrative.
 published: true
 ---
 ## While the company champions what creators can achieve, it's overlooking what they have to endure.
@@ -58,4 +69,4 @@ That's the opportunity for Adobe as I see it. Give its audience someone to recog
 
 **Author bio:** Ian Griggs is the founder of Stickee Story, a lean story and content-strategy practice. He has spent more than two decades turning complex ideas into clear, credible narratives, from writing for broadcast television to developing content strategy for deep-tech companies and leading communications for a global professional standards body.
 
-About this analysis: This is an independent analysis based on public information, unaffiliated with or endorsed by Adobe, and offered for illustration only.
+**About this analysis:** This is an independent analysis based on public information, unaffiliated with or endorsed by Adobe, and offered for illustration only.
