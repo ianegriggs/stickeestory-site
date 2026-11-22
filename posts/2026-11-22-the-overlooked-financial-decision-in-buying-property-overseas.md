@@ -3,7 +3,7 @@ title: The Overlooked Financial Decision in Buying Property Overseas
 date: 2026-11-22T09:54:00.000+02:00
 slug: buying-property-overseas-currency-transfer
 category: Writing Sample
-hero_image: /assets/uploads/money-shuttle-hero.jpg
+hero_image: ""
 pdf: ""
 seo:
   meta_title: "Buying Property Overseas: How to Avoid Hidden Currency Costs"
@@ -11,12 +11,12 @@ seo:
     exchange rate markups quietly cost thousands—and how forward contracts
     protect your budget.
 social:
-  og_image: /assets/uploads/money-shuttle-hero.jpg
+  og_image: ""
   og_title: The Overlooked Financial Decision in Buying Property Overseas
   og_description: A "zero-fee" bank transfer on a $500K overseas home can quietly
     cost $10,000 in hidden exchange rate markups. Here is how to plan your
     currency transfer early.
-published: true
+published: false
 ---
 When buying property overseas, the paperwork tends to follow a familiar order. First comes the lawyer. Then the notary, mortgage arrangements, insurance and property inspection. Each item gets attention because each one carries a clear responsibility. By the time buyers reach the final stages, the checklist feels complete. The deposit has been arranged, the legal work is underway, and the completion date is approaching. Yet there is one line that deserves to be near the top of that list: currency transfer.
 
