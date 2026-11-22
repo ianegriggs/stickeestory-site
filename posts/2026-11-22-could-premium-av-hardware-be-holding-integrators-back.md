@@ -17,43 +17,43 @@ social:
     higher equipment sales and recurring revenue.
 published: false
 ---
-## The latest equipment may help you win today's project.But what if it's limiting your business in the long run?
+## The latest equipment may help you win today's project. But what if it's limiting your business in the long run?
 
-The contract is signed, the installation team finishes on schedule, and the client brings the new boardroomonline. The latest flagship camera sits above the main display. By every technical measure, it looks like another successful installation.
+The contract is signed, the installation team finishes on schedule, and the client brings the new boardroom online. The latest flagship camera sits above the main display. By every technical measure, it looks like another successful installation.
 
-But two months later, the excitement has faded. The equipment works exactly as promised, yet meetings stillfeel fundamentally the same. The client isn't complaining or asking for a refund. They simply aren't convinced that the substantial investment has made much of a difference.
+But two months later, the excitement has faded. The equipment works exactly as promised, yet meetings still feel fundamentally the same. The client isn't complaining or asking for a refund. They simply aren't convinced that the substantial investment has made much of a difference.
 
-For the integrator, the problem runs deeper. Winning the bid meant discounting premium equipment to apoint where margins were already thin. And when the next sales opportunity comes along, the pitch is likelyto sound much like the last one: newer hardware, better specifications, and another round of pricenegotiations.
+For the integrator, the problem runs deeper. Winning the bid meant discounting premium equipment to a point where margins were already thin. And when the next sales opportunity comes along, the pitch is likely to sound much like the last one: newer hardware, better specifications, and another round of price negotiations.
 
 **Winning the project is no longer the same as building a profitable business, especially when discounting becomes the default strategy.**
 
 ### The Price-Cutting Trap
 
-According to NSCA's analysis of its 2024 industry survey, 84% of integrators reported hardware margins of30% or less, while more than a third reported margins of 20% or less. When customers can compare similarequipment from competing installers, price becomes the easiest way to choose.
+According to [NSCA's analysis](https://www.nsca.org/nsca-news/whats-the-right-hardware-margin-for-integrators) of its 2024 industry survey, 84% of integrators reported hardware margins of 30% or less, while more than a third reported margins of 20% or less. When customers can compare similar equipment from competing installers, price becomes the easiest way to choose.
 
-The familiar playbook is to pitch the latest camera, discount the equipment, and win the flagship installation.Unfortunately, that has left integrators sacrificing margins to capture the very projects they're counting on togrow their businesses.
+The familiar playbook is to pitch the latest camera, discount the equipment, and win the flagship installation. Unfortunately, that has left integrators sacrificing margins to capture the very projects they're counting on to grow their businesses.
 
-However, as Dalton Parker, CTS, Director of Sales & Marketing at ClearVista, pointed out in CommercialIntegrator's 2025 industry predictions, the growing commoditization of AV equipment also creates anopportunity for integrators to become the consultants and service providers their clients need, rather thansimply selling equipment.
+However, as Dalton Parker, CTS, Director of Sales & Marketing at ClearVista, pointed out in [Commercial Integrator's 2025 industry predictions](https://www.commercialintegrator.com/insights/2025-pro-av-industry-predictions/139136/), the growing commoditization of AV equipment also creates an opportunity for integrators to become the consultants and service providers their clients need, rather thansimply selling equipment.
 
 That requires a different kind of value proposition.
 
 Instead of competing over who can supply the most advanced equipment at the lowest price, integrators need to give clients something meaningfully better to invest in.
 
-And that starts with understanding why supposedly cutting-edge meeting room technology so often fails tomake meetings feel any different.
+And that starts with understanding why supposedly cutting-edge meeting room technology so often fails to make meetings feel any different.
 
 ### More Cameras Don't Necessarily Mean Better Meetings
 
-The AV industry already recognizes the limitations of a single camera positioned at the front of a conferenceroom. Manufacturers such as Logitech, Huddly, and Crestron have introduced multi-camera solutions thatoffer additional viewing angles and more comprehensive room coverage.2It's a step forward. But simply adding cameras doesn't necessarily make remote participants feel as thoughthey're sitting across the table.
+The AV industry already recognizes the limitations of a single camera positioned at the front of a conference room. Manufacturers such as Logitech, Huddly, and Crestron have introduced multi-camera solutions that offer additional viewing angles and more comprehensive room coverage.2It's a step forward. But simply adding cameras doesn't necessarily make remote participants feel as though they're sitting across the table.
 
-Many conventional multi-camera setups focus on switching between views. While that can improve visibility,it doesn't automatically coordinate the visual and audio cues that make a conversation feel natural.
+Many conventional multi-camera setups focus on switching between views. While that can improve visibility, it doesn't automatically coordinate the visual and audio cues that make a conversation feel natural.
 
-Research published in Imaging Neuroscience by Zhao et al. (2023) found differences in attention and brainactivity between live, in-person interactions and video-based ones. The study didn't test meeting roomproducts or specific camera configurations, but it highlights the complexity of the human interactions thatconventional video calls attempt to reproduce.
+[Research published in Imaging Neuroscience by Zhao et al. (2023)](https://direct.mit.edu/imag/article/doi/10.1162/imag_a_00027/117875/Separable-processes-for-live-in-person-and-live) found differences in attention and brainactivity between live, in-person interactions and video-based ones. The study didn't test meeting roomproducts or specific camera configurations, but it highlights the complexity of the human interactions thatconventional video calls attempt to reproduce.
 
 **Better meetings require more than just better pictures.**
 
-For integrators, this presents an opportunity to move beyond improvements to individual devices and deliversomething clients can actually recognize: a more lifelike, in-person meeting experience.
+For integrators, this presents an opportunity to move beyond improvements to individual devices and deliver something clients can actually recognize: a more lifelike, in-person meeting experience.
 
-The missing ingredient isn't necessarily another premium-priced piece of hardware. It's the intelligence thatmakes multiple devices work together.
+The missing ingredient isn't necessarily another premium-priced piece of hardware. It's the intelligence that makes multiple devices work together.
 
 ### Build More Value Into the Room
 
@@ -63,7 +63,7 @@ Rather than relying on an expensive proprietary hardware ecosystem, PRISM uses i
 
 By bringing multiple viewing angles and distributed audio together, it creates a more natural sense of presence than conventional camera switching alone. Remote participants can experience a meeting that feels closer to being in the room, without requiring the kind of six-figure custom installation traditionally associated with immersive conferencing.
 
-PRISM can also work with compatible existing equipment and supports major meeting platforms, including Zoom, Microsoft Teams, Webex, and Google Meet. Integrators can therefore improve the meeting experience without requiring clients to abandon familiar platforms or replace every device they already own.
+[PRISM can also work](https://www.looqinside.com/hybrid-meeting-spaces-specs) with compatible existing equipment and supports major meeting platforms, including Zoom, Microsoft Teams, Webex, and Google Meet. Integrators can therefore improve the meeting experience without requiring clients to abandon familiar platforms or replace every device they already own.
 
 That changes the sales conversation.
 
@@ -73,6 +73,54 @@ The difference is significant. Hardware specifications are easy for competitors 
 
 ### More Equipment. Better Margins. Greater Revenue Per Room.
 
-PRISM's flexibility doesn't just change the meeting experience. It changes the economics of the equipmentsale.Rather than committing a large share of the room budget to a single premium-priced camera or proprietaryappliance, integrators can distribute that investment across a broader mix of compatible cameras,microphones, speakers, and other room components.This creates opportunities to sell more equipment per installation while selecting products with potentiallyhealthier margins. Instead of depending on the profitability of one expensive device, integrators can build amore balanced hardware package around the capabilities the client actually needs.The result is a more capable meeting room for the customer and greater equipment revenue and marginpotential for the integrator.This approach also reflects a broader market shift. Frost & Sullivan's research into enterprise videoconferencing identifies a move away from standalone device purchases toward integrated collaborationsolutions, with higher attachment rates for peripherals, software, services, and accessories increasing theinvestment per room.LOOQ's own partner business model illustrates the potential financial impact. Its published panoramic roomexample models 5.8 times the five-year integrator profit of a conventional Zoom room. That's acompany-provided projection rather than an independently measured industry result, but it illustrates how adifferent equipment mix, combined with software licensing, can change the economics of an installation.The opportunity isn't necessarily to persuade the client to spend more. It's to give them a more compellingreason to invest in a better solution while allowing the integrator to earn more from the project.Instead of competing over how cheaply one premium device can be installed, integrators can compete on thevalue of the complete room.The Sale Doesn't End at InstallationFor many AV integrators, revenue from a meeting room largely stops when the installation team leaves. Thenext significant opportunity depends on another equipment purchase, often years down the road.PRISM introduces a way to change that through recurring software licenses.Through LOOQ's partner program, eligible integrators can participate in the ongoing software revenueassociated with their installations. That creates an income stream beyond the initial hardware and installationsale, without depending entirely on the client's next equipment refresh.The shift is consistent with broader developments in professional AV. AVIXA's Industry Outlook and TrendsAnalysis identifies standalone software, particularly AI-powered tools, as the fastest-growing productcategory in the industry.4For integrators, that presents an opportunity to complement traditional hardware margins with a morepredictable source of recurring income.The business model becomes more attractive on several levels. A broader equipment package creates greaterrevenue potential at installation. A differentiated meeting experience gives clients a stronger reason tochoose the solution. And software licensing allows the integrator to continue earning after the physicalproject is complete.Together, those advantages make each installation more valuable, both immediately and over time.The Real Business MultiplierThink back to the boardroom installation that started this story.The equipment worked. The project met its technical requirements. But the meeting experience hadn'tchanged enough to justify the excitement surrounding the investment. Meanwhile, the integrator hadsacrificed margin to win a sale that looked remarkably similar to every other competitive hardware bid.That's the risk of relying on the latest equipment to differentiate your business. Even when the installationgoes perfectly, winning can cost nearly as much as losing.There is another way to compete.Instead of leading with expensive devices and incremental improvements, integrators can offer afundamentally different meeting experience built around intelligent software and commercially availablehardware.They can differentiate their solutions, increase equipment revenue and margins per room, and createrecurring income that continues beyond installation.The real business multiplier isn't selling the most expensive equipment. It's building more value andprofitability into every room you deliver.
+PRISM's flexibility doesn't just change the meeting experience. It changes the economics of the equipment sale. 
 
-Download the Spatial Room ROI Calculator to see what that opportunity could mean for yourequipment sales, margins, and recurring revenue.
+Rather than committing a large share of the room budget to a single premium-priced camera or proprietary appliance, integrators can distribute that investment across a broader mix of compatible cameras, microphones, speakers, and other room components. 
+
+This creates opportunities to sell more equipment per installation while selecting products with potentially healthier margins. Instead of depending on the profitability of one expensive device, integrators can build amore balanced hardware package around the capabilities the client actually needs.
+
+The result is a more capable meeting room for the customer and greater equipment revenue and margin potential for the integrator.
+
+This approach also reflects a broader market shift. [Frost & Sullivan's research](https://www.frost.com/growth-opportunity-news/information-communications-technology/unified-communications/video-conferencing-devices-the-intelligent-workplace-is-reshaping-enterprise-collaboration-ict05_tg09_kc54_aug26_cim-mm/) into enterprise videoconferencing identifies a move away from standalone device purchases toward integrated collaboration solutions, with higher attachment rates for peripherals, software, services, and accessories increasing the investment per room.
+
+[LOOQ's own partner business model](https://www.looqinside.com/av-integrators) illustrates the potential financial impact. Its published panoramic room example models 5.8 times the five-year integrator profit of a conventional Zoom room. That's a company-provided projection rather than an independently measured industry result, but it illustrates how a different equipment mix, combined with software licensing, can change the economics of an installation.
+
+The opportunity isn't necessarily to persuade the client to spend more. It's to give them a more compelling reason to invest in a better solution while allowing the integrator to earn more from the project. Instead of competing over how cheaply one premium device can be installed, integrators can compete on the value of the complete room.
+
+### The Sale Doesn't End at Installation
+
+For many AV integrators, revenue from a meeting room largely stops when the installation team leaves. The next significant opportunity depends on another equipment purchase, often years down the road.
+
+PRISM introduces a way to change that through recurring software licenses.
+
+[Through LOOQ's partner program](https://www.looqinside.com/av-integrators), eligible integrators can participate in the ongoing software revenueassociated with their installations. That creates an income stream beyond the initial hardware and installationsale, without depending entirely on the client's next equipment refresh.
+
+The shift is consistent with broader developments in professional AV. [AVIXA's Industry Outlook and Trends Analysis](https://www.avixa.org/resources/press-releases/avixa-research-forecasts-pro-av-industry-set-to-reach-402-billion-by-2030) identifies standalone software, particularly AI-powered tools, as the fastest-growing product category in the industry.
+
+For integrators, that presents an opportunity to complement traditional hardware margins with a morepredictable source of recurring income.
+
+The business model becomes more attractive on several levels. A broader equipment package creates greaterrevenue potential at installation. A differentiated meeting experience gives clients a stronger reason tochoose the solution. And software licensing allows the integrator to continue earning after the physicalproject is complete.
+
+Together, those advantages make each installation more valuable, both immediately and over time.
+
+### The Real Business Multiplier
+
+Think back to the boardroom installation that started this story.
+
+The equipment worked. The project met its technical requirements. But the meeting experience hadn't changed enough to justify the excitement surrounding the investment. Meanwhile, the integrator had sacrificed margin to win a sale that looked remarkably similar to every other competitive hardware bid.
+
+That's the risk of relying on the latest equipment to differentiate your business. Even when the installation goes perfectly, winning can cost nearly as much as losing.
+
+**There is another way to compete.**
+
+Instead of leading with expensive devices and incremental improvements, integrators can offer a fundamentally different meeting experience built around intelligent software and commercially available hardware.
+
+They can differentiate their solutions, increase equipment revenue and margins per room, and create recurring income that continues beyond installation.
+
+The real business multiplier isn't selling the most expensive equipment. It's building more value and profitability into every room you deliver.
+
+[Download the Spatial Room ROI Calculator](https://www.looqinside.com/spatial-room-roi-calculator) to see what that opportunity could mean for your equipment sales, margins, and recurring revenue.
+
+\-------
+
+**Author bio:** Ian Griggs is the founder of Stickee Story, a lean story and content-strategy practice. He has spent more than two decades turning complex ideas into clear, credible narratives, from writing for broadcast television to developing content strategy for deep-tech companies and leading communications for a global professional standards body.
