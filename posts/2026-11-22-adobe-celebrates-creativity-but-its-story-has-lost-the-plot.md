@@ -1,6 +1,6 @@
 ---
 title: Adobe Celebrates Creativity. But Its Story Has Lost the Plot.
-date: 2026-11-22T09:46:00.000+02:00
+date: 2026-11-22T15:04:00.000+02:00
 slug: adobe-brand-story-case-study
 category: Case Study
 hero_image: /assets/uploads/reframing-adobe_og.jpeg
