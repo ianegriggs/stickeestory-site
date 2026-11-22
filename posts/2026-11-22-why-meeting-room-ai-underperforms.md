@@ -2,7 +2,7 @@
 title: Why Meeting Room AI Underperforms
 date: 2026-11-22T09:52:00.000+02:00
 slug: why-meeting-room-ai-underperforms-camera-architecture
-category: Writing Sample
+category: Sample Deliverable
 hero_image: /assets/uploads/why-meeting-room-ai-underperforms.jpg
 pdf: /assets/uploads/when-meeting-room-ai-fails-thought-leadership-sample.pdf
 seo:
