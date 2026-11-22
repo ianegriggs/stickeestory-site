@@ -18,7 +18,7 @@ collections:
       - label: "Category"
         name: "category"
         widget: "select"
-        options: ["Writing Sample", "Case Study", "Strategy", "Opinion", "Sample Deliverable"]
+        options: ["Writing Sample", "Case Study", "Strategy", "Narrative Intelligence"]
         default: "Writing Sample"
 
       - label: "Hero Image"
