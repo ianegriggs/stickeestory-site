@@ -15,7 +15,7 @@ social:
   og_description: The latest AV hardware might win today's bid, but thin margins
     hurt long-term growth. Learn how software-driven spatial meetings unlock
     higher equipment sales and recurring revenue.
-published: false
+published: true
 ---
 ## The latest equipment may help you win today's project. But what if it's limiting your business in the long run?
 
