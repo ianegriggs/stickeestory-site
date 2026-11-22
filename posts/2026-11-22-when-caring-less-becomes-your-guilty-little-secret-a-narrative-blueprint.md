@@ -1,5 +1,5 @@
 ---
-title: "When Caring Less Becomes Your Guilty Little Secret: A Narrative Blueprint"
+title: When Caring Less Becomes Your Guilty Little Secret
 date: 2026-11-22T11:45:00.000+02:00
 slug: kraft-mac-and-cheese-narrative-blueprint
 category: Narrative Intelligence
