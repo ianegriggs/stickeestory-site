@@ -3,8 +3,8 @@ title: When Caring Less Becomes Your Guilty Little Secret
 date: 2026-11-22T11:45:00.000+02:00
 slug: kraft-mac-and-cheese-narrative-blueprint
 category: Narrative Intelligence
-hero_image: /assets/uploads/narrative-blueprint.jpg
-pdf: /assets/uploads/kraft-mac-and-cheese-demo-narrative-blueprint.pdf
+hero_image: /assets/uploads/narrative-blueprint-hero.jpg
+pdf: ""
 seo:
   meta_title: "Brand Storytelling Case Study: Kraft Mac & Cheese Blueprint"
   meta_description: Explore Stickee Story's narrative blueprint for Kraft Mac &
