@@ -1,0 +1,7 @@
+# Skip the build (and the 15-credit production deploy) when a commit only changes
+# blog post text in /posts. Post text is read from GitHub when a page is viewed,
+# so it does not need a rebuild. Commits that touch anything else, including new
+# images or PDFs in assets/uploads, still build normally.
+# Exit code 0 = skip the build; any other exit code = build.
+[build]
+  ignore = "git diff --quiet \"$CACHED_COMMIT_REF\" \"$COMMIT_REF\" -- . ':(exclude)posts'"
